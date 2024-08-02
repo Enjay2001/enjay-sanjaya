@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/X2tG5vD/logo-siap.png" width="400"></p>
+<p align="center"><img src="https://i.ibb.co/X2tG5vD/th.png" width="400"></p>
 
 <h1 align="center">
 MTS ALBA ISLAMIC SCHOOL (ALBA)
